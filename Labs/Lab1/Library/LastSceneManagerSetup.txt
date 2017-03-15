@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Lab1Scene.unity
+- path: D:/Github repos/DJV-Repo/Labs/Lab3/Assets/lab3Scene.unity
   isLoaded: 1
   isActive: 1
